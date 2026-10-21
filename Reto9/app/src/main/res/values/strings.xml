@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reto9</string>
+    <string name="txtTitulo">Encabezado o título</string>
+    <string name="txtDescripcionAndroid">Es la cabeza del muñeco de android en negro</string>
+    <string name="txtSubtitulo">Subtitulo</string>
+    <string name="txtDescripcionSeguridad">Es una casa con pilares con un escudo con el simbolo del check demostrando la seguridad</string>
+    <string name="txtDescriptionMenu">Es una persona levantando los brazos con tres puntos a la derecha indicando que es un menu</string>
+    <string name="txtDescripcion">Esta es una breve descripción sobre la Card.</string>
+    <string name="btnAccion">Acción</string>
+
+</resources>

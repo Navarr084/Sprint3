@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reto7</string>
+    <string name="tituloVelada">La Velada del Año 2027</string>
+    <string name="subTituloVelada">Esperemos que la disfrutéis</string>
+    <string name="boton">Comprar entradas</string>
+    <string name="textoBoton">Todavía no está implementado</string>
+    <string name="descripcionImagen">Cartel de La Velada del Año con los boxeadores participantes</string>
+</resources>
